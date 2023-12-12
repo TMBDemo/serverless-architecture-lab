@@ -3,7 +3,7 @@
 
 name: Build and deploy dotnet core app to Azure Function App - TollBoothFunctions-43r35gkneyfiq
 
-on: |+
+on:
   push:
     branches:
       - master
